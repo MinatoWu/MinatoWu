@@ -1,11 +1,12 @@
 # Hi there 👋 我是 Wiggins
 
-～hi，我是 Wiggins(吴孝宇)，景德镇陶瓷大学 26 届本科毕业生，热爱软件开发，擅长领域在后端开发。  
+～hi，我是 Wiggins(吴孝宇)，景德镇陶瓷大学 26 届本科毕业生，热爱软件开发，擅长领域：后端开发。  
 
 邮箱📮：2903455862@qq.com || wu02707@gmail.com  
 
 blog🧸：[👉🔗](https://blog.csdn.net/wuxiaoyu0806)  
 
+兴趣：🎵网易云音乐，🏀篮球，web3(区块链虚拟货币），美食->健身（矛盾的）💦
 
 
 ## 💼 实习经历  
@@ -34,3 +35,5 @@ Backend Development Team -- 2024-10 to today
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)]()
+[![Socket](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)](https://socket.io/)
+
