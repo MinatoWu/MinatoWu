@@ -7,6 +7,7 @@
 ---
 ## 💼 实习
 ### **安克创新（Anker）** - 后端开发实习生  
+[![Anker](https://img.shields.io/badge/Anker-0078D7?style=flat&logo=anker&logoColor=white)]()
 `2024.10 - 至今 | PQP-MTC 
 
 ## 🚀 技术栈
