@@ -1,6 +1,12 @@
 # Hi there 👋 我是 Wiggins
 
-～hi，我是 Wiggins，景德镇陶瓷大学 26 届本科毕业生，热爱软件开发，主要领域在后端。
+～hi，我是 Wiggins，景德镇陶瓷大学 26 届本科毕业生，热爱软件开发，擅长领域在后端开发。  
+
+邮箱📮：2903455862@qq.com || wu02707@gmail.com  
+
+blog🧸：[👉🔗](https://blog.csdn.net/wuxiaoyu0806)  
+
+
 
 ## 💼 实习经历  
 <img width="48" alt="image" src="https://github.com/user-attachments/assets/e8b9e635-beb8-4afa-981b-11f64eef8dd6" />
