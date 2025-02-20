@@ -5,6 +5,7 @@
 [![Blog](https://img.shields.io/badge/技术博客-CSDN-FF6A00?style=flat&logo=csdn)](https://blog.csdn.net/wuxiaoyu0806)   
  💼 实习经历
 <img width="94" alt="image" src="https://github.com/user-attachments/assets/e8b9e635-beb8-4afa-981b-11f64eef8dd6" />Anker-innovations Global Manufacturing Center Backend Development Team --2024-10 to today
+---
 🚀 技术栈
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)]()
