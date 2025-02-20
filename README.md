@@ -1,10 +1,7 @@
 # Hi there 👋  我是Wiggins
 
 📫 
-[![Email](https://img.shields.io/badge/邮箱-2903455862@qq.com-blue?style=flat&logo=gmail)](mailto:2903455862@qq.com)  
-[![Blog]()](https://blog.csdn.net/wuxiaoyu0806)   
-
-💼 实习经历<img width="48" alt="image" src="https://github.com/user-attachments/assets/e8b9e635-beb8-4afa-981b-11f64eef8dd6" />Anker-innovations Global Manufacturing Center Backend Development Team --2024-10 to today 
+<img width="48" alt="image" src="https://github.com/user-attachments/assets/e8b9e635-beb8-4afa-981b-11f64eef8dd6" /> 💼 实习经历Anker-innovations Global Manufacturing Center Backend Development Team --2024-10 to today 
 - - -
 🚀 技术栈
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)]()
