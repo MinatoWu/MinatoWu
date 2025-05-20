@@ -14,7 +14,7 @@ blog🧸：[👉🔗](https://blog.csdn.net/wuxiaoyu0806)
 ## 💼 实习经历  
 <img width="48" alt="image" src="https://github.com/user-attachments/assets/e8b9e635-beb8-4afa-981b-11f64eef8dd6" />
 Anker-innovations Global Manufacturing Center
-Backend Development Team -- 2024-10 to date  
+Backend Development Team -- 2024-10 to 2025-04  
   
 
 ## 🚀 技术栈  
