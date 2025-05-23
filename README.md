@@ -1,23 +1,23 @@
-# Hi there 👋 我是 Wiggins
+# Hi there 👋 I am Wiggins
 
-～hi，我是 Wiggins(吴孝宇)，一名 26 届本科毕业生，热爱软件开发，目前专注于后端开发。  
+～Hi, I'm Wiggins, a Class of '26 undergraduate graduate who loves software development and is currently focusing on backend development.  
 
-未来想做的：大厂后端，AIGC，web3开发，Remote  
+What I want to do in the future: backend of large manufacturers, AIGC, web3 development, Remote  
 
-邮箱📮：2903455862@qq.com || wu02707@gmail.com  
+email📮：2903455862@qq.com || wu02707@gmail.com  
 
 blog🧸：[👉🔗](https://blog.csdn.net/wuxiaoyu0806)  
 
-兴趣：🎒旅游，🎵网易云音乐，🏀篮球，web3(区块链虚拟货币），美食<->健身 💦
+Interests: 🎒 Travel, 🎵 NetEase Cloud Music, 🏀 Basketball, Food<-> Fitness 💦
 
 
-## 💼 实习经历  
+## 💼 Internship experience  
 <img width="48" alt="image" src="https://github.com/user-attachments/assets/e8b9e635-beb8-4afa-981b-11f64eef8dd6" />
 Anker-innovations Global Manufacturing Center
-Backend Development Team -- 2024-10 to 2025-04  
+Backend Development Team -- 2024-10 to 2025-03  
   
 
-## 🚀 技术栈  
+## 🚀Tech stack  
 
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)]()
