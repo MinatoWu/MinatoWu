@@ -13,8 +13,8 @@ Interests: 🎒 Travel, 🎵 NetEase Cloud Music, 🏀 Basketball, Food<-> Fitne
 
 ## 💼 Internship experience  
 <img width="48" alt="image" src="https://github.com/user-attachments/assets/e8b9e635-beb8-4afa-981b-11f64eef8dd6" />
-Anker-innovations Global Manufacturing Center
-Backend Development Team -- 2024-10 to 2025-03  
+Anker-innovations 
+Backend Development Team -- 2024-10 to 2025-04  
   
 
 ## 🚀Tech stack  
@@ -22,11 +22,6 @@ Backend Development Team -- 2024-10 to 2025-03
 [![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)]()
 [![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)]()
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()  
-
-[![Gin](https://img.shields.io/badge/Gin-00ADD8?style=flat)]()
-[![gRPC](https://img.shields.io/badge/gRPC-3178C6?style=flat&logo=grpc&logoColor=white)]()
-[![Go-Zero](https://img.shields.io/badge/Go--Zero-15C213?style=flat&logo=go&logoColor=white)]()
-[![Beego](https://img.shields.io/badge/Beego-FAA61A?style=flat)]()  
 
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)]()
 [![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)]()
