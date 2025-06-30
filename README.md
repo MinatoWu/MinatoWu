@@ -67,4 +67,20 @@ Backend Development Team -- 2024-10 to 2025-04
   <a href="https://socket.io/" target="_blank" style="display: inline-block; margin: 0 24px 20px 0; padding: 14px; background: linear-gradient(45deg, #212121, #424242); border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.18); text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.IO" style="width: 48px; height: 48px;">
   </a>
-</p>
+</p>  
+
+## 📊 GitHub Stats  
+<table>
+  <tr>
+    <td align="center">
+      <h3>💻 My Top Langs</h3>
+      <!-- 语言占比卡片 -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinatoWu&layout=compact&theme=dark&hide=html,css" alt="Top Languages" style="max-width: 100%; border-radius: 8px;">
+    </td>
+    <td align="center">
+      <h3>🚀 GitHub Statistics</h3>
+      <!-- 综合统计卡片 -->
+      <img src="https://github-readme-stats.vercel.app/api?username=MinatoWu&show_icons=true&count_private=true&theme=dark&line_height=28" alt="GitHub Stats" style="max-width: 100%; border-radius: 8px;">
+    </td>
+  </tr>
+</table>
