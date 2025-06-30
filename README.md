@@ -19,18 +19,52 @@ Backend Development Team -- 2024-10 to 2025-04
 
 ## 🚀Tech stack  
 
-[![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)]()
-[![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)]()
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]()  
-
-[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)]()
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)]()
-[![RocketMQ](https://img.shields.io/badge/RocketMQ-FF6A00?style=flat)]()
-[![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka)]()
-[![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch)]()  
-
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)]()
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)]()
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)]()
-[![Socket](https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white)](https://socket.io/)
-
+<p align="center">
+  <a href="https://golang.org/" target="_blank" style="display: inline-block; margin: 0 24px 20px 0; padding: 14px; background: linear-gradient(45deg, #2196F3, #4FC3F7); border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.18); text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" style="width: 48px; height: 48px;">
+  </a>
+  
+  <a href="https://isocpp.org/" target="_blank" style="display: inline-block; margin: 0 24px 20px 0; padding: 14px; background: linear-gradient(45deg, #1565C0, #1E88E5); border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.18); text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" style="width: 48px; height: 48px;">
+  </a>
+  
+  <a href="https://www.python.org/" target="_blank" style="display: inline-block; margin: 0 24px 20px 0; padding: 14px; background: linear-gradient(45deg, #4CAF50, #81C784); border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.18); text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" style="width: 48px; height: 48px;">
+  </a>
+  
+  <a href="https://www.mysql.com/" target="_blank" style="display: inline-block; margin: 0 24px 20px 0; padding: 14px; background: linear-gradient(45deg, #00796B, #26A69A); border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.18); text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" style="width: 48px; height: 48px;">
+  </a>
+  
+  <a href="https://redis.io/" target="_blank" style="display: inline-block; margin: 0 24px 20px 0; padding: 14px; background: linear-gradient(45deg, #F44336, #E57373); border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.18); text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" style="width: 48px; height: 48px;">
+  </a>
+  
+  <a href="https://rocketmq.apache.org/" target="_blank" style="display: inline-block; margin: 0 24px 20px 0; padding: 14px; background: linear-gradient(45deg, #FF9800, #FFB74D); border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.18); text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/apacherocketmq.svg" alt="RocketMQ" style="width: 48px; height: 48px;">
+  </a>
+  
+  <a href="https://kafka.apache.org/" target="_blank" style="display: inline-block; margin: 0 24px 20px 0; padding: 14px; background: linear-gradient(45deg, #607D8B, #90A4AE); border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.18); text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" style="width: 48px; height: 48px;">
+  </a>
+  
+  <a href="https://www.elastic.co/elasticsearch/" target="_blank" style="display: inline-block; margin: 0 24px 20px 0; padding: 14px; background: linear-gradient(45deg, #009688, #4DB6AC); border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.18); text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" alt="Elasticsearch" style="width: 48px; height: 48px;">
+  </a>
+  
+  <a href="https://www.docker.com/" target="_blank" style="display: inline-block; margin: 0 24px 20px 0; padding: 14px; background: linear-gradient(45deg, #1976D2, #42A5F5); border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.18); text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" style="width: 48px; height: 48px;">
+  </a>
+  
+  <a href="https://git-scm.com/" target="_blank" style="display: inline-block; margin: 0 24px 20px 0; padding: 14px; background: linear-gradient(45deg, #F44336, #EF5350); border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.18); text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" style="width: 48px; height: 48px;">
+  </a>
+  
+  <a href="https://www.linux.org/" target="_blank" style="display: inline-block; margin: 0 24px 20px 0; padding: 14px; background: linear-gradient(45deg, #FFC107, #FFCA28); border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.18); text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" style="width: 48px; height: 48px;">
+  </a>
+  
+  <a href="https://socket.io/" target="_blank" style="display: inline-block; margin: 0 24px 20px 0; padding: 14px; background: linear-gradient(45deg, #212121, #424242); border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.18); text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.IO" style="width: 48px; height: 48px;">
+  </a>
+</p>
