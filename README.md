@@ -2,7 +2,7 @@
 
 ～Hi, I'm Wiggins, a Class of '26 undergraduate graduate who loves software development and is currently focusing on backend development.  
 
-What I want to do in the future: backend of large manufacturers, AIGC, web3 development, Remote  
+What I want to do in the future: Internet big factory, AiGC, remote web3 development
 
 email📮：2903455862@qq.com || wu02707@gmail.com  
 
