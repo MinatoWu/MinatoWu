@@ -83,4 +83,6 @@ Backend Development Team -- 2024-10 to 2025-04
      <img src="https://github-readme-stats.vercel.app/api?username=MinatoWu&show_icons=true&count_private=true&theme=dark&line_height=28&" alt="GitHub Stats" style="max-width: 100%; border-radius: 8px;">
     </td>
   </tr>
-</table>
+</table>  
+
+Thank you for your visit! Hope you have a great day! ✨
