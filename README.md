@@ -19,7 +19,7 @@ Backend Development Team -- 2024-10 to 2025-04
 
 ## 🚀Tech stack  
 
-<p align="center">
+<p align="left">
   <a href="https://golang.org/" target="_blank" style="display: inline-block; margin: 0 24px 20px 0; padding: 14px; background: linear-gradient(45deg, #2196F3, #4FC3F7); border-radius: 10px; box-shadow: 0 5px 15px rgba(0, 0, 0, 0.18); text-decoration: none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" style="width: 48px; height: 48px;">
   </a>
