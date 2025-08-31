@@ -10,7 +10,7 @@ Interests: 🎒 Travel, 🎵 NetEase Cloud Music, 🏀 Basketball, Food<-> Fitne
 
 ## 💼 Internship experience  
 <div style="line-height: 48px; margin-bottom: 8px;">
-  <img src="https://github.com/user-attachments/assets/33785917-96cb-480c-8926-d8ee8d562a3e" width="38" height="40" alt="RedNote Logo" style="vertical-align: middle; margin-right: 8px; display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/33785917-96cb-480c-8926-d8ee8d562a3e" width="37" height="38" alt="RedNote Logo" style="vertical-align: middle; margin-right: 8px; display: inline-block;">
   <span style="vertical-align: middle; display: inline-block; line-height: 1.2;">
     <strong>RedNote</strong> · Backend Development Team      · 2025-7 to date
   </span>
