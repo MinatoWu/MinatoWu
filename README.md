@@ -2,21 +2,27 @@
 
 ～Hi, I'm Wiggins, a Class of '26 undergraduate graduate who loves software development and is currently focusing on backend development.  
 
-What I want to do in the future: Internet big factory, AiGC, remote web3 development
-
-email📮：2903455862@qq.com || wu02707@gmail.com  
+email📮：2494302457 @qq.com **or** wu02707 @gmail.com  
 
 blog🧸：[👉🔗](https://blog.csdn.net/wuxiaoyu0806)  
 
 Interests: 🎒 Travel, 🎵 NetEase Cloud Music, 🏀 Basketball, Food<-> Fitness 💦
 
-
 ## 💼 Internship experience  
-<img width="48" alt="image" src="https://github.com/user-attachments/assets/e8b9e635-beb8-4afa-981b-11f64eef8dd6" />
-Anker-innovations 
-Backend Development Team -- 2024-10 to 2025-04  
-  
+<div style="line-height: 48px; margin-bottom: 8px;">
+  <img src="https://github.com/user-attachments/assets/33785917-96cb-480c-8926-d8ee8d562a3e" width="48" height="48" alt="RedNote Logo" style="vertical-align: middle; margin-right: 8px; display: inline-block;">
+  <span style="vertical-align: middle; display: inline-block; line-height: 1.2;">
+    <strong>RedNote</strong> · Backend Development Team      · 2025-7 to date
+  </span>
+</div>
 
+<div style="line-height: 48px;">
+  <img src="https://github.com/user-attachments/assets/4076cffa-0419-4a9d-a1cd-2141b5e27149" width="48" height="48" alt="Anker-innovations Logo" style="vertical-align: middle; margin-right: 8px; display: inline-block;">
+  <span style="vertical-align: middle; display: inline-block; line-height: 1.2;">
+    <strong>Anker-innovations</strong> · Backend Development Team      · 2024-10 to 2025-04
+  </span>
+</div>
+  
 ## 🚀Tech stack  
 
 <p align="left">
