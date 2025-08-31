@@ -10,14 +10,14 @@ Interests: 🎒 Travel, 🎵 NetEase Cloud Music, 🏀 Basketball, Food<-> Fitne
 
 ## 💼 Internship experience  
 <div style="line-height: 48px; margin-bottom: 8px;">
-  <img src="https://github.com/user-attachments/assets/33785917-96cb-480c-8926-d8ee8d562a3e" width="48" height="48" alt="RedNote Logo" style="vertical-align: middle; margin-right: 8px; display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/33785917-96cb-480c-8926-d8ee8d562a3e" width="38" height="40" alt="RedNote Logo" style="vertical-align: middle; margin-right: 8px; display: inline-block;">
   <span style="vertical-align: middle; display: inline-block; line-height: 1.2;">
     <strong>RedNote</strong> · Backend Development Team      · 2025-7 to date
   </span>
 </div>
 
 <div style="line-height: 48px;">
-  <img src="https://github.com/user-attachments/assets/4076cffa-0419-4a9d-a1cd-2141b5e27149" width="48" height="48" alt="Anker-innovations Logo" style="vertical-align: middle; margin-right: 8px; display: inline-block;">
+  <img src="https://github.com/user-attachments/assets/5ebb1864-dd52-42fd-a9c5-ecca3eb29aab" width="48" height="48" alt="Anker-innovations Logo" style="vertical-align: middle; margin-right: 8px; display: inline-block;">
   <span style="vertical-align: middle; display: inline-block; line-height: 1.2;">
     <strong>Anker-innovations</strong> · Backend Development Team      · 2024-10 to 2025-04
   </span>
