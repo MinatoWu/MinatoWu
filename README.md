@@ -2,7 +2,7 @@
 
 ～Hi, I'm Wiggins, a Class of '26 undergraduate graduate who loves software development and is currently focusing on backend development.  
 
-email📮：2494302457 @qq.com **or** wu02707 @gmail.com  
+email📮：2494302457 @qq.com **OR** wu02707 @gmail.com  
 
 blog🧸：[👉🔗](https://blog.csdn.net/wuxiaoyu0806)  
 
